@@ -3,6 +3,7 @@ de lado, já algum tempo ando estudando fazendo coisas simples bem devagar, isso
 
 Se assembly fosse banda seria uma banda de heavy metal... rsrs
     Se assembly fosse banda seria uma banda de heavy metal... rsrs
+amazing project
 
 Antes de começar queria agradecer de coração "sigsegv","m0nad","iak","kov","__i","MySoft","muzgo"
 por terem me influenciado em Assembly e ter me ajudado por muitas vezes e até hoje...
